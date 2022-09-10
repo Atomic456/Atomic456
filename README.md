@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/Atomic456/Atomic456/main/Github%20Banner.PNG" height="100"/>
+
+![profile banner](https://raw.githubusercontent.com/Atomic456/Atomic456/main/Github%20Banner.PNG)
 
 ### Hi there 👋, my name is Markus
 ####  computer science student from germany
