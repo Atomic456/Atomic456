@@ -10,7 +10,7 @@ At the moment i am studying computer science. I am interested in self driving ca
 
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="20" height="20"/>  University Java Projects and web development
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" width="20" height="20"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" width="20" height="20"/>  Web development project during an internship
 <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width="20" height="20"/>
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="20" height="20"/>
 <img src="https://cdn-icons-png.flaticon.com/512/29/29594.png" width="20" height="20"/>
