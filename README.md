@@ -1,16 +1,19 @@
 ### Hi there 👋, my name is Markus
 ####  computer science student from germany
 
-
+---
 
 At the moment i am studying computer science. I am interested in self driving cars, software development for embedded systems and artificial intelligence projects.
 
 #### Programming Language
 -
 #### Microcontrollers
--
+- Ardouino
+- Raspberry Pi
+- Texas Instruments Launch Pad
 #### Work Experience
--
+- 6 months web develeopment internship at VW
+- 
 Skills: VUE JS / REACT / JS / HTML / CSS
  
 
