@@ -1,9 +1,13 @@
+<img src="https://raw.githubusercontent.com/Atomic456/Atomic456/main/Github%20Banner.PNG"/>
+
 ### Hi there 👋, my name is Markus
 ####  computer science student from germany
 
 ---
 
 At the moment i am studying computer science. I am interested in self driving cars, software development for embedded systems and artificial intelligence projects.
+
+---
 
 #### Main Programming Experiences
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="20" height="20"/>  Software development for embedded systems
