@@ -14,9 +14,9 @@ At the moment i am studying computer science. I am interested in self driving ca
 <img src="https://cdn-icons-png.flaticon.com/512/29/29594.png" width="50" height="50"/>
 
 #### Secondary Programming Experiences
-![python programming language](https://cdn-icons-png.flaticon.com/512/5968/5968350.png)
-![java script](https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png)
-![C++ programming language](https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png)
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50" height="50"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="50" height="50"/>
 
 #### Microcontrollers
 - 📟 Ardouino
