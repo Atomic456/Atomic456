@@ -6,7 +6,7 @@
 
 ---
 
-At the moment i am studying computer science. I am interested in self driving cars, software development for embedded systems and artificial intelligence projects.
+At the moment, I am studying computer science. I am interested in self driving cars, software development for embedded systems and artificial intelligence projects.
 
 ---
 
