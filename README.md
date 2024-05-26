@@ -39,8 +39,9 @@ At the moment, I am studying computer science. I am interested in self driving c
 
 
 #### Work Experience
-- 👩‍💻 6 months full stack web develeopment internship at VW
-- 👩‍💻 3 months it project management internship at VW
+- 👩‍💻 6 months full stack web develeopment internship
+- 👩‍💻 3 months it project management internship
+- 👩‍💻 since January 2024 test automation engineer
 
  
 
